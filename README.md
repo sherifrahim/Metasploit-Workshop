@@ -53,7 +53,7 @@ The highlights include:
 - Set browser/system proxy to `127.0.0.1:8080`
 
 ### **Capture Login Request**
-1. Open Burp Suite's Chromium browser.
+1. Open Burp Suite's Chromium browser or setup Firefox proxy to direct to the desired address
 2. Visit target login page (e.g., DVWA).
 3. Submit random credentials.
 4. Go to Burp Intercept > HTTP History.
